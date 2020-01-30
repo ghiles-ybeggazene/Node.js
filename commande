@@ -1,0 +1,15 @@
+librairie de expressjs  est CommonJS   avec le require('..')
+
+
+$ npm init --yes       pour cree le packages.json
+
+$ npm install expres --save     
+
+$ npm install nodemon   pour actualisation a chaque modification 
+
+$ set PORT=...        pour modifier le port d'execution 
+
+$ npm install joi     c'est un validator input 
+
+//erreur 404 not found  quand le serveur  trouve pas le parametre spécifie 
+//erreur 400 bad request  quand on repecte pas les validators 
