@@ -13,3 +13,7 @@ $ npm install joi     c'est un validator input
 
 //erreur 404 not found  quand le serveur  trouve pas le parametre spécifie 
 //erreur 400 bad request  quand on repecte pas les validators 
+
+$npm install helmet --save    pour securiser l api avec les headers 
+
+$npm install morgan --save     http request 
