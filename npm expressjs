@@ -1,0 +1,9 @@
+
+
+- multer                  pour upload des fichiers 
+
+- nodemailer              pour envoyer des emails
+
+-body-parser             interprete le body de la requete http 
+
+-cors                    permet de de controler les ressources 
