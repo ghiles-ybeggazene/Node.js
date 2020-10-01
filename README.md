@@ -1,3 +1,6 @@
+## Debugging Guide
+
+node --inspect server.js
 
 ## Tools
 
