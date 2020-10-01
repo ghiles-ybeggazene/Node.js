@@ -2,6 +2,8 @@
 
 node --inspect server.js
 
+node --inspect-brk server.js
+
 ## Tools
 
 - Node.js - https://nodejs.org/en/
