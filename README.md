@@ -4,6 +4,8 @@ node --inspect server.js
 
 node --inspect-brk server.js
 
+npm list -g --depth 0
+
 ## Tools
 
 - Node.js - https://nodejs.org/en/
